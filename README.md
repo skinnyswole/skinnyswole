@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skinnyswole
 - 👀 I’m interested in data analytics, blockchain and cloud devlopment
-- 🌱 I’m currently learning Python, Solidity, HTML/CSS
-- 💞️ I’m looking to collaborate on data analysis or API related projects
+- 🌱 I’m currently learning Solidity and JaveScript
+- 💞️ I’m looking to collaborate on data, machine learning and blockchain projects
 - 📫 How to reach me skinnyswole1@gmail.com
 
 <!---
